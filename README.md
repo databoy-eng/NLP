@@ -1,1 +1,1 @@
-# Thompson Sampling
+# Upper Confidence Bound (UCB)
