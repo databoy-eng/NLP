@@ -1,1 +1,1 @@
-# Natural Language Processing NLP
+# Upper Confidence Bound (UCB)
